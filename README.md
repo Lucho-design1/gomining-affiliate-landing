@@ -3,7 +3,7 @@
 Este repositorio contiene una página estática que actúa como funnel de afiliados para GoMining. Incluye:
 
 - Enlace de afiliado con el código `tCW6U`.
-- Botón de donación PayPal (link directo a https://paypal.me/lucianobenech).
+- Botón de donación PayPal (link directo a https://paypal.me/LucianoBenechCenoz).
 - Dirección de cartera TRC‑20 para recibir USDT.
 
 La página está desplegada con GitHub Pages y está disponible en:
